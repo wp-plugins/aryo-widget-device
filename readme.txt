@@ -2,8 +2,8 @@
 Contributors: KingYes, ariel.k
 Tags: admin, content, hide, plugin, show, sidebar, widget, widget display, widgets, wordpress, device, desktop, tablet, mobile, phone, responsive, madeinisrael,
 Requires at least: 3.5
-Tested up to: 3.5.1
-Stable tag: 1.0.1
+Tested up to: 3.9
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Mobile.
@@ -49,6 +49,9 @@ Would you like to like to cotribute to Device Widget? You are more than welcome 
 
 
 == Changelog ==
+
+= 1.0.2 =
+* Tested up to WordPress 3.9.
 
 = 1.0.1 =
 * Export first .pot file for translators.
